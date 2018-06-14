@@ -1,6 +1,6 @@
 # ProyectoMatlab
 
-Integrantes:
-García Ruiz Andrea
-Machicao Cardoso Raúl Fernando
-Rojas Castillo Oscar
+Integrantes: </br>
+-García Ruiz Andrea </br>
+-Machicao Cardoso Raúl Fernando </br>
+-Rojas Castillo Oscar </br>
